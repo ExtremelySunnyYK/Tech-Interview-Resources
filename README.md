@@ -1,5 +1,5 @@
 # Tech-Interview-Resources
-Pease help me keep this post up-to-date by submitting corrections and additions via pull-request
+Pease help me keep this post up-to-date by submitting corrections and additions via pull-request!
 
 ## Table of Content
 1. [Software Engineering Interview Preparation](#SoftwareEngineeringInterviewPreparation)
