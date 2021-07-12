@@ -2,6 +2,11 @@
 Pease help me keep this post up-to-date by submitting corrections and additions via pull-request
 
 ## Table of Content
+1. [Software Engineering Interview Preparation](#Software Engineering Interview Preparation)
+2. [Machine Learning Interview](#Machine Learning Interview)
+3. [CV](#CV)
+4. [Applying For Internships](#Applying For Internships)
+5. [Books](#Books)
 
 
 ### Software Engineering Interview Preparation
@@ -10,7 +15,7 @@ Pease help me keep this post up-to-date by submitting corrections and additions 
 1. [Algos and Datastructures Cheat Sheet](https://github.com/SuyashLakhotia/TechInterview)
 
 ### Machine Learning Interview
-1. [Machine Learning interview handbook]https://github.com/chiphuyen/ml-interviews-book
+1. [Machine Learning interview handbook](https://github.com/chiphuyen/ml-interviews-book)
 
 ### CV
 1. [How to write ur CV by NUS Senior](https://luyangkenneth.github.io/evolution-of-resumes/)
@@ -20,3 +25,14 @@ Pease help me keep this post up-to-date by submitting corrections and additions 
 ### Applying For Internships
 1. [Applying for internships](https://ymichael.github.io/projectintern/) (esp useful for those who are going us for internship)
 2. [Brief guide to teech internships](http://alexeymk.com/a-brief-guide-to-tech-internships/)
+
+
+### Books
+#### Books to prep for coding interviews
+1. Cracking the coding Interviews
+
+#### Books for software Engineering
+1. Clean Code
+
+
+
