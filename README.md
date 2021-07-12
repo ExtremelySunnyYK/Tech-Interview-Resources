@@ -13,8 +13,8 @@ Pease help me keep this post up-to-date by submitting corrections and additions 
 1. [Machine Learning interview handbook]https://github.com/chiphuyen/ml-interviews-book
 
 ### CV
-1.[How to write ur CV by NUS Senior](https://luyangkenneth.github.io/evolution-of-resumes/)
-1.[CV Template](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
+1. [How to write ur CV by NUS Senior](https://luyangkenneth.github.io/evolution-of-resumes/)
+1. [CV Template](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
 
 
 ### Applying For Internships
