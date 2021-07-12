@@ -2,10 +2,10 @@
 Pease help me keep this post up-to-date by submitting corrections and additions via pull-request
 
 ## Table of Content
-1. [Software Engineering Interview Preparation](#Software Engineering Interview Preparation)
-2. [Machine Learning Interview](#Machine Learning Interview)
+1. [Software Engineering Interview Preparation](#SoftwareEngineeringInterviewPreparation)
+2. [Machine Learning Interview](#MachineLearningInterview)
 3. [CV](#CV)
-4. [Applying For Internships](#Applying For Internships)
+4. [Applying For Internships](#ApplyingForInternships)
 5. [Books](#Books)
 
 
